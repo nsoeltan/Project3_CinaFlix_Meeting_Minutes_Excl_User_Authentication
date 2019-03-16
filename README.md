@@ -22,7 +22,7 @@ The following technologies, frameworks and libraries are used:
 7. Okta User Authentication
 
 
-##Deployed Meeting Minutes app excluding user authentication on Heroku:
+##Deployed Project3_CinaFlix_Meeting_Minutes_Excl_User_Authentication on Heroku:
 
 https://stark-depths-53797.herokuapp.com/
 
